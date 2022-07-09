@@ -4945,7 +4945,7 @@ GameObject:
   - component: {fileID: 3614578560542134157}
   - component: {fileID: 6283699357070420349}
   m_Layer: 0
-  m_Name: Reticle
+  m_Name: TeleportIndicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
