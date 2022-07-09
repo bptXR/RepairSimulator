@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/RepairSimulator.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Workshop.unity
+    guid: 8467b854efe1e2643b58da2d255baeb6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ff8835aca08486a408818b2ce957ea6c,
       type: 2}
